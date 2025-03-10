@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mt276/nodejs-architecture.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mt276/nodejs-architecture/issues"
+  },
+  "homepage": "https://github.com/mt276/nodejs-architecture#readme",
+  "dependencies": {
+    "compression": "^1.8.0",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "helmet": "^8.0.0",
+    "morgan": "^1.10.0"
+  }
+}
